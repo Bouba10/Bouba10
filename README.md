@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Boubacar Sidiki Barry  
+# 👋 Hi, I'm  Barry  
 
 Welcome to my GitHub profile! I'm a passionate **Java Fullstack Developer** with a knack for building scalable, efficient, and user-friendly applications. I thrive on innovation and enjoy contributing to impactful projects that solve real-world problems.
 
